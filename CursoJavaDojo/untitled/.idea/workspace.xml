@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="723d6638-6857-4c30-81eb-838ae9767445" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lTkgQXrijqbekGxRVmB9XX1idB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723d6638-6857-4c30-81eb-838ae9767445" name="Default Changelist" comment="" />
+      <created>1607628580425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607628580425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1607628603565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/1920.52.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607628603565" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1609861509916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/1920.52.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1609861509916" />
+    <state x="342" y="203" key="new project wizard" timestamp="1609861564039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="203" key="new project wizard/1920.52.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1609861564039" />
+  </component>
+</project>
