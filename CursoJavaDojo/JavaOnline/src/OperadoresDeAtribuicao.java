@@ -13,6 +13,6 @@ public class OperadoresDeAtribuicao {
         salario /= 20; //salario = salario / 20
         salario %= 3; //salario = salario % 3
 
-        System.out.println(salario); //sout+tab atalho
+        System.out.println(salario); //sout+tab - atalho
     }
 }
