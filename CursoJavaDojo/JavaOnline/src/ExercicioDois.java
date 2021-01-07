@@ -11,6 +11,13 @@
 
 public class ExercicioDois {
     public static void main(String[] args){
+        String nome = "Josiane Pepis";
+        double salario = 15000;
+        String sexo = "F";
+        int idade = 30;
+        String estadoCivil = "casada";
 
+        System.out.println("O trabalhador(a) "+nome+" do sexo "+sexo+", idade "+idade+", estado civil "+estadoCivil+
+                " e salario "+salario+" encontra-se empregado neste estabelecimento.");
     }
 }
